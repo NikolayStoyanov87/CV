@@ -1,4 +1,4 @@
-Nikolay Stoyanov
+##Nikolay Stoyanov
 
 I am a full-stack junior software engineer who is really eager to join a software engineering team and gain more tech skills and contribute to my work team and the business.I've got a positive and really great attitude willing to challenge myself on a daily basis.
 
